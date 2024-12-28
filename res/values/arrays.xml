@@ -12,19 +12,19 @@
 
     <!-- Device 1 -->
     <string-array name="device_1" translatable="false">
-        <item></item> <!-- MANUFACTURER -->
-        <item></item> <!-- MODEL -->
-        <item></item> <!-- FINGERPRINT -->
-        <item></item> <!-- BRAND -->
-        <item></item> <!-- PRODUCT -->
-        <item></item> <!-- DEVICE -->
-        <item></item> <!-- RELEASE -->
-        <item></item> <!-- ID -->
-        <item></item> <!-- INCREMENTAL -->
-        <item></item> <!-- TYPE -->
-        <item></item> <!-- TAGS -->
-        <item></item> <!-- SECURITY_PATCH -->
-        <item></item> <!-- DEVICE_INITIAL_SDK_INT -->
+        <item>Google</item> <!-- MANUFACTURER -->
+        <item>Pixel 6</item> <!-- MODEL -->
+        <item>google/oriole_beta/oriole:Baklava/BP21.241121.009/12787338:user/release-keys</item> <!-- FINGERPRINT -->
+        <item>google</item> <!-- BRAND -->
+        <item>oriole_beta</item> <!-- PRODUCT -->
+        <item>oriole</item> <!-- DEVICE -->
+        <item>Baklava</item> <!-- RELEASE -->
+        <item>BP21.241121.009</item> <!-- ID -->
+        <item>12787338</item> <!-- INCREMENTAL -->
+        <item>user</item> <!-- TYPE -->
+        <item>release-keys</item> <!-- TAGS -->
+        <item>2024-12-05</item> <!-- SECURITY_PATCH -->
+        <item>21</item> <!-- DEVICE_INITIAL_SDK_INT -->
     </string-array>
 
 </resources>
